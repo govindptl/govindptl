@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @govindptl
+- 👋 Hi, I’m @Govind Patel
 - 👀 I’m interested in gaining knowlegde.
-- 🌱 I’m currently learning git and development, linux and many more...
+- 🌱 I’m currently learning git, DSA and many more...
 - 💞️ I’m looking to collaborate on making my site better.
 
 <!---
